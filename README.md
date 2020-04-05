@@ -1,18 +1,1 @@
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
-# Specs
+# My specs - Cocoapods
